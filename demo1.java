@@ -1,1 +1,4 @@
-class java
+class java {
+  sum{}
+}
+{}
